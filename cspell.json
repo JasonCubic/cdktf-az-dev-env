@@ -1,0 +1,21 @@
+{
+  "version": "0.2",
+  "ignorePaths": [],
+  "dictionaryDefinitions": [],
+  "dictionaries": [],
+  "words": [
+    "adminuser",
+    "azurerm",
+    "cdktf",
+    "ckdtf",
+    "eastus",
+    "filebase",
+    "identityfile",
+    "infracost",
+    "mtcazurekey",
+    "synthesised",
+    "templatefile"
+  ],
+  "ignoreWords": [],
+  "import": []
+}
